@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/title_displayer">
+        <file>icon/icon.png</file>
+        <file>icon/icons8-refresh-26.png</file>
+    </qresource>
+</RCC>
